@@ -37,3 +37,5 @@ Javascript, Express, Node, MongoDB, Mongoose.
 If you have any questions about the repo, open an issue or contact me directly at undefined. You can find more of my work at [sethschnrt](https://github.com/sethschnrt/).
 
 ## Walkthrough
+
+https://drive.google.com/file/d/114kKKul89t-ihisLg5fSV8SwcTYFaW1N/view
